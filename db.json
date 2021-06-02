@@ -1,11 +1,25 @@
 {
-    "favorites": [
-        {
-            "id": "107746418947834285936",
-            "favorite1": "bitcoin",
-            "favorite2": "dogecoin",
-            "favorite3": "ethereum",
-            "favorite4": "litecoin"
-        }
-    ]
+  "favorites": [
+    {
+      "id": "107746418947834285936",
+      "favorite1": "3x-long-cardano-token",
+      "favorite2": "agrello",
+      "favorite3": "0x",
+      "favorite4": "01coin"
+    },
+    {
+      "id": "115706799114252316403",
+      "favorite1": "",
+      "favorite2": "",
+      "favorite3": "",
+      "favorite4": ""
+    },
+    {
+      "id": "112175348467766761971",
+      "favorite1": "",
+      "favorite2": "",
+      "favorite3": "",
+      "favorite4": ""
+    }
+  ]
 }
